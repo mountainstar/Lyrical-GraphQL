@@ -1,0 +1,12 @@
+li.collectionItem {
+    padding: 10px;
+    border-bottom: 1px solid #999;
+    display: flex;
+    justify-content: space-between;
+}
+.material-icons{
+  cursor: pointer;
+}
+.material-icons:hover{
+  color: red
+}
