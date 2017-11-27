@@ -10,3 +10,6 @@ li.collectionItem {
 .material-icons:hover{
   color: red
 }
+a {
+  color: #4ba1bb;
+}
