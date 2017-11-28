@@ -6,10 +6,15 @@ li.collectionItem {
 }
 .material-icons{
   cursor: pointer;
+  margin-left: 5px;
 }
 .material-icons:hover{
   color: red
 }
 a {
   color: #4ba1bb;
+}
+.vote-box {
+  display: flex;
+  align-items: center;
 }
